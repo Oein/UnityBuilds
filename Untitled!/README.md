@@ -7,5 +7,17 @@
 
 예시 맵 파일:
 ```
-
+aaaaaadddddda
+zxxxxxxxccccc
 ```
+
+맵 편집중 글자로 써야해서 어떤 블럭인지 알수 없을때는  
+https://github.com/Oein/UnityBuilds/blob/main/Untitled!/untitled-fontbyoein.ttf  
+이 폰트를 다운받아 적용시킨뒤 만드시면 됩니다.  
+
+![GG](https://user-images.githubusercontent.com/62917247/140489385-e8efd084-3f1b-4a0b-856f-13d0f0f34518.png)
+
+위 사진처럼 글자가 블럭의 형태로 바뀌어 나옵니다.
+모든 줄의 글자수는 동일해야 합니다.   
+삼각형 모양의 블럭 i , j , k , l은 다으면 죽는 가시 블럭입니다.  
+q 블럭은 다으면 클리어가 되어 화면에 `Clear!` 가 표시되는 블럭 입니다.  
