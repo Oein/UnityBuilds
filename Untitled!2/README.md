@@ -1,5 +1,6 @@
 # Untitled!2 with GRAPHICS Update
 ### This version is pre-release. Some functions will not work.
+### Zip file is Split Compressed So you have to use programs like `7-zip` or `bandizip`
 
 - [X] 게임 틀 만들기
 - [X] 커스텀 맵 만들기
