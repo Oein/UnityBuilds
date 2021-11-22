@@ -20,6 +20,7 @@
 | Jump | Space Key |
 | Exit | Esc |
 | Run | Left Shift |
+| Respawn | R |
 
 # Block Definds
 | Block Name | Word |
