@@ -44,7 +44,8 @@
 | Right Spike | l |
 | Clear Flag | p |
 | Clear Line | o |
-| Error Block | Other Words (Like f , g , h...) |
+| Gravity Block | f |
+| Error Block | Other Words (Like g , h...) |
 ## You can put `,` or `enter` to make new line. But you have to make all lines' length to the same length
 
 # Map Examples
