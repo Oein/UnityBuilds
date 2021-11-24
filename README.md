@@ -1,3 +1,3 @@
 # UnityBuilds
 
-# This repository is moved to ???
+# This repository is moved to http://oein.kro.kr:38081/
